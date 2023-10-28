@@ -1,0 +1,48 @@
+Wyniki dla obrazu 1:
+PSNR po wyrównaniu histogramu: 8.24
+PSNR po rozci¹gniêciu histogramu: 13.62
+PSNR po skalowaniu histogramu: 24.59
+PSNR po wyg³adzeniu histogramu: 28.53
+PSNR po wyostrzaniu histogramu: 36.00
+SSIM po wyrównaniu histogramu: 0.35
+SSIM po rozci¹gniêciu histogramu: 0.93
+SSIM po skalowaniu histogramu: 0.76
+SSIM po wyg³adzeniu histogramu: 0.89
+SSIM po wyostrzaniu histogramu: 0.99
+
+Wyniki dla obrazu 2:
+PSNR po wyrównaniu histogramu: 9.61
+PSNR po rozci¹gniêciu histogramu: 15.52
+PSNR po skalowaniu histogramu: 11.95
+PSNR po wyg³adzeniu histogramu: 49.58
+PSNR po wyostrzaniu histogramu: 54.83
+SSIM po wyrównaniu histogramu: 0.63
+SSIM po rozci¹gniêciu histogramu: 0.95
+SSIM po skalowaniu histogramu: 0.92
+SSIM po wyg³adzeniu histogramu: 0.99
+SSIM po wyostrzaniu histogramu: 1.00
+
+Wyniki dla obrazu 3:
+PSNR po wyrównaniu histogramu: 15.04
+PSNR po rozci¹gniêciu histogramu: 19.56
+PSNR po skalowaniu histogramu: 15.03
+PSNR po wyg³adzeniu histogramu: 28.55
+PSNR po wyostrzaniu histogramu: 34.64
+SSIM po wyrównaniu histogramu: 0.77
+SSIM po rozci¹gniêciu histogramu: 0.83
+SSIM po skalowaniu histogramu: 0.86
+SSIM po wyg³adzeniu histogramu: 0.91
+SSIM po wyostrzaniu histogramu: 0.98
+
+Wyniki dla obrazu 4:
+PSNR po wyrównaniu histogramu: 10.25
+PSNR po rozci¹gniêciu histogramu: 16.32
+PSNR po skalowaniu histogramu: 14.52
+PSNR po wyg³adzeniu histogramu: 34.57
+PSNR po wyostrzaniu histogramu: 40.86
+SSIM po wyrównaniu histogramu: 0.69
+SSIM po rozci¹gniêciu histogramu: 0.94
+SSIM po skalowaniu histogramu: 0.84
+SSIM po wyg³adzeniu histogramu: 0.97
+SSIM po wyostrzaniu histogramu: 0.99
+
